@@ -22,7 +22,7 @@ resource "aws_db_instance" "default" {
   name                 = "cpms"
   identifier           = "myrdb2"
   username             = "admin"
-  password             = "ramana4u2021"
+  password             = "shiva123"
   parameter_group_name = "default.mysql5.7"
   skip_final_snapshot  = true
   publicly_accessible  = true
